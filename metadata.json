@@ -1,0 +1,6 @@
+{
+  "name": "GeoExplorer P4: Structure of the Earth",
+  "description": "Interactive science games and curriculum lab on the Structure of the Earth for Hong Kong Primary 4 students, covering Earth layers, tectonic plates, rocks, soils, and geopark conservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
